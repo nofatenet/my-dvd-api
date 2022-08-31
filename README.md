@@ -19,4 +19,7 @@ Need it online. So we use HEROKU:
     6.1 It does not work any longer: Need to push with a TOKEN, like this:
         git push "https://nofatenet:TOKEN_HERE@github.com/nofatenet/my-dvd-api"
 
-7. Need a package.json for the Project, so get one with:
+7. Need a package.json for the Project, so get one with: "npm init".
+8. Add JSON-SERVER to the dependencies, with "npm install json-server" again
+9. Insert a "start": "node server.js" to the package.json under "scripts"
+10. Create a server.js file
