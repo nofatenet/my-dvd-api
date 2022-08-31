@@ -34,3 +34,9 @@ Still need a Service to Deploy it online. So we use HEROKU:
 15. Create a Project for Heroku: "heroku create my-dvd-api-online"
 16. To Deploy to HEROKU, use "git push heroku main"
 17. Let the browser open it with: "heroku open" - Working? Well Done!
+
+---
+
+To Do:
+
+When PUSH, where do the credentials come from?
