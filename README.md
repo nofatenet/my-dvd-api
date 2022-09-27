@@ -40,3 +40,7 @@ Still need a Service to Deploy it online. So we use HEROKU:
 To Do:
 
 When PUSH, where do the credentials come from?
+
+---
+
+Integrate Data into "Video Drome" App.
